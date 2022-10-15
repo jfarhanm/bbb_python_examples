@@ -1,0 +1,47 @@
+[
+    {
+      "_id": "62f7b27afb17477cc692c5d1",
+      "index": 0,
+      "guid": "11fb23dd-62aa-465b-8432-7dda10ce275e",
+      "isActive": false,
+      "balance": "$3,747.34",
+      "picture": "http://placehold.it/32x32",
+      "age": 20,
+      "eyeColor": "green",
+      "name": "Cervantes Duffy",
+      "gender": "male",
+      "company": "PEARLESSA",
+      "email": "cervantesduffy@pearlessa.com",
+      "phone": "+1 (833) 521-2681",
+      "address": "284 Gold Street, Felt, Hawaii, 9652",
+      "about": "Excepteur exercitation aliqua occaecat anim cillum reprehenderit laborum. Incididunt culpa veniam proident ipsum proident dolore veniam amet cupidatat do nulla. Incididunt elit quis laborum dolore incididunt. Pariatur veniam ipsum ad anim cupidatat elit deserunt esse cupidatat velit qui.\r\n",
+      "registered": "2015-12-18T10:36:26 -06:-30",
+      "latitude": 48.561033,
+      "longitude": -58.11606,
+      "tags": [
+        "excepteur",
+        "aliquip",
+        "ea",
+        "excepteur",
+        "minim",
+        "ea",
+        "mollit"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Fields Harmon"
+        },
+        {
+          "id": 1,
+          "name": "Dudley Sparks"
+        },
+        {
+          "id": 2,
+          "name": "Pugh Morin"
+        }
+      ],
+      "greeting": "Hello, Cervantes Duffy! You have 7 unread messages.",
+      "favoriteFruit": "apple"
+    }
+  ]
